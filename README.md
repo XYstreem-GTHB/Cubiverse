@@ -1,2 +1,2 @@
 # Cubiverse
-this is a minecraft like voxel game witch will be updated
+this is a minecraft like voxel game which will be updated
